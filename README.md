@@ -47,6 +47,8 @@ The combination of YOLOv9's detection capabilities with SAM's segmentation prowe
 
 ![YOLOv9+SAM_detections](/yolov9+sam_results/results_1.png)
 
+![YOLOv9+SAM_detections](/masks/download1.png)
+
 ## Contribution
 
 Contributions to this project are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
